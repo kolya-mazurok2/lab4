@@ -1,4 +1,2 @@
-Java lab4
-# lab4
-# lab4
-# lab4
+# swing-table
+some practice with tables
